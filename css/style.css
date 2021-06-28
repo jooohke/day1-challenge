@@ -1,0 +1,49 @@
+.orange {
+    color: orange;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .bold 
+  {
+    font-weight: bold;
+  }
+  
+  .green {
+    color: green;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .table1
+  {
+    border: 1px black solid;
+  }
+  
+  .table1 tr, th, td {
+    border: 1px black solid;
+    text-align: center;
+    padding: 0.25em 0.5em
+  }
+  
+  .red_td {
+    border: red 1px solid;
+    color: red;
+  }
+  
+  .table2 {
+    border-collapse: collapse;
+  }
+  
+  video {
+    margin-top: 5em;
+  }
